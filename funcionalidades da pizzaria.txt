@@ -1,0 +1,4 @@
+-> Login
+-> Cadastro 
+-> Listagem de pizzas e sabores
+-> Listagem de formas de pagamento
